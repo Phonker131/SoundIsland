@@ -1,0 +1,11 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+__pycache__/
+*.py[cod]
+.venv/
+.env
+ARL.txt
+Song Cache/
